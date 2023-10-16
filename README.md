@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![1-Home](https://github.com/kalyanvv/WBD-project/assets/98587135/dff7d0ef-5455-413c-9b9c-fb9566f6531e)
+
+![2-Home](https://github.com/kalyanvv/WBD-project/assets/98587135/58b6dd72-9ae3-4e4a-b682-9a4ab6dc84ba)
+
+![3-Workouts](https://github.com/kalyanvv/WBD-project/assets/98587135/64ad304e-395b-40c7-a273-dd49b4586eb8)
+
+![4-Profile](https://github.com/kalyanvv/WBD-project/assets/98587135/0f15b491-e6d2-44fb-9de2-acffeb121274)
+
+![5-Signup](https://github.com/kalyanvv/WBD-project/assets/98587135/f6fec089-c20e-4ad6-9d41-39b6ade83495)
+
+![6-Login](https://github.com/kalyanvv/WBD-project/assets/98587135/bcf656c1-8c3a-4e5c-9481-53c502ee1ba5)
+
+![7-Settings](https://github.com/kalyanvv/WBD-project/assets/98587135/529b4eec-cd2d-461d-9260-77179651915a)
